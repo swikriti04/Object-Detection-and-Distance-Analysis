@@ -30,7 +30,8 @@ backpack and so on.
     $ pip install imutils
     
 ##For the installation of torch using "pip"
-    $ pip3 install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+$ pip3 install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
 or please follow the instructions from Pytorch
 
 You need to clone the repository using gitbash (if gitbash is already installed) or you can download the zip file.
