@@ -41,8 +41,21 @@ You need to clone the repository using gitbash (if gitbash is already installed)
 If you want to run object detection and distance measurement on a video file just write the name of the video file to variable id in "object_detection.py" or if you want to run it on your webcam just put 0 in id.
 And If you want to test on images then run "Infer on Image.py"
 
-###Original Image :
+Original Image :
+
 ![Image1](1.jpg)
 
-###Detected Image:
+
+Detected Image:
+
 ![Image2](D1.jpg)
+
+
+Original Image:
+
+![Image1](4.jpg)
+
+
+Detected Image:
+
+![Image2](D4.jpg)
