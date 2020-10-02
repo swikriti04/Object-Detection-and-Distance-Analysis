@@ -34,12 +34,15 @@ backpack and so on.
 $ pip3 install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
 or please follow the instructions from Pytorch
 
-Original Image :
-![Image1](1.jpg)
-
 You need to clone the repository using gitbash (if gitbash is already installed) or you can download the zip file.
 
     $ git clone https://github.com/paul-pias/Object-Detection-and-Distance-Measurement.git
     
 If you want to run object detection and distance measurement on a video file just write the name of the video file to variable id in "object_detection.py" or if you want to run it on your webcam just put 0 in id.
 And If you want to test on images then run "Infer on Image.py"
+
+###Original Image :
+![Image1](1.jpg)
+
+###Detected Image:
+![Image2](D1.jpg)
